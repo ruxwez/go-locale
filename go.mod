@@ -1,4 +1,4 @@
-module github.com/quikcode/golocale
+module github.com/quikcode/go-locale
 
 go 1.19
 
