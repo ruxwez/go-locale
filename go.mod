@@ -1,4 +1,4 @@
-module github.com/quikcode/go-locale
+module github.com/bravinta/go-locale
 
 go 1.19
 
