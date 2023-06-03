@@ -2,7 +2,7 @@ package gin
 
 import (
 	"github.com/gin-gonic/gin"
-	quiklocale "github.com/quikcode/golocale"
+	quiklocale "github.com/bravinta/golocale"
 )
 
 // Middleware
