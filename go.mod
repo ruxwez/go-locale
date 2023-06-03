@@ -1,4 +1,4 @@
-module github.com/bravinta/go-locale
+module github.com/bravinta/golocale
 
 go 1.19
 
